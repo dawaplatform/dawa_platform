@@ -31,7 +31,7 @@ export default function Home() {
             Official Launch
           </h2>
           <p className="text-xl md:text-2xl mb-2">
-            Friday, 8th April 2025 at 3:00 PM
+            Wednesday, 16th April 2025 at 2:00 PM
           </p>
           <p className="text-sm md:text-base opacity-75">
             Mark your calendar and be ready!
@@ -49,7 +49,7 @@ export default function Home() {
               making it easy to buy, sell, and discover products and services in your area.
             </p>
             <p className="text-gray-700">
-              Whether you're looking to sell your items or find great deals, DAWA 
+              Whether you&apos;re looking to sell your items or find great deals, DAWA 
               provides a seamless experience with powerful search capabilities and 
               user-friendly listings.
             </p>
